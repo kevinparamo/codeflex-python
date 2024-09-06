@@ -1,9 +1,0 @@
-{
-  "jupyterlite": {
-    "pyodide": {
-      "packages": [
-        "codeflex"
-      ]
-    }
-  }
-}
