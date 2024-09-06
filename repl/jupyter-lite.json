@@ -5,8 +5,8 @@
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy",
         "jupyterlab-tour",
-        "@jupyterlab/fileeditor-extension",  // Para deshabilitar el "Python File"
-        "@jupyterlab/contextualhelp-extension"  // Para deshabilitar "Show Contextual Help"
+        "@jupyterlab/fileeditor-extension", 
+        "@jupyterlab/contextualhelp-extension"
       ]
     }
 }
